@@ -1,0 +1,7 @@
+Stock,Symbol,RMSE,MAE,Avg_Price,RMSE_Percentage,Data_Points
+IDX Composite,^JKSE,171.46,120.35,6525.24,2.63,1185
+Bank Central Asia,BBCA.JK,234.44,176.49,7326.91,3.2,1189
+Bank Rakyat Indonesia,BBRI.JK,178.25,134.27,3638.18,4.9,1191
+Telkom Indonesia,TLKM.JK,123.13,91.15,2986.96,4.12,1190
+Astra International,ASII.JK,220.76,163.33,4360.97,5.06,1190
+Unilever Indonesia,UNVR.JK,227.29,162.26,4149.52,5.48,1189

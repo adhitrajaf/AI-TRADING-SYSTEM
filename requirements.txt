@@ -1,0 +1,11 @@
+# Requirements for Financial Forecasting 
+pandas
+numpy
+yfinance
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+streamlit
+fastapi
+uvicorn

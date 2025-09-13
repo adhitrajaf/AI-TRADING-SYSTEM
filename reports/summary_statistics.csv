@@ -1,0 +1,7 @@
+Stock,Symbol,Total_Days,Avg_Price_IDR,Price_Volatility,Daily_Return_Mean,Daily_Return_Std,Max_Daily_Gain,Max_Daily_Loss,Sharpe_Ratio,Avg_Volume
+IDX Composite,^JKSE,1211,"6,521",785,0.0002,0.0102,10.19%,-6.58%,0.23,"162,972,447"
+Bank Central Asia,BBCA.JK,1211,"7,303","1,599",0.0005,0.0162,17.33%,-7.91%,0.51,"88,031,679"
+Bank Rakyat Indonesia,BBRI.JK,1211,"3,629",894,0.0004,0.0211,20.49%,-7.67%,0.33,"184,215,141"
+Telkom Indonesia,TLKM.JK,1211,"2,985",477,0.0001,0.0190,13.74%,-6.96%,0.06,"117,037,257"
+Astra International,ASII.JK,1211,"4,368",667,0.0002,0.0206,12.71%,-11.45%,0.15,"51,120,018"
+Unilever Indonesia,UNVR.JK,1211,"4,194","1,431",-0.0009,0.0223,19.38%,-10.70%,-0.62,"19,609,127"
